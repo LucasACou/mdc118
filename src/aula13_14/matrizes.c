@@ -3,6 +3,7 @@
 int main()
 {
     /* declaração de matriz unidimensinal */
+    // 0 .. 9
     int arr[10] = {1, 1, 2, 3, 5, 8, 13, 21, 34, 55};
     char str[25] = {'u', 'm', 'a', ' ', 'm', 'a', 't', 'r', 'i', 'z', ' ', 'd', 'e', ' ', 'c', 'a', 'r', 'a', 'c', 't', 'e', 'r', 'e', 's', '\0'};
 

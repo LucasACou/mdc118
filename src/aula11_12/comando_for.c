@@ -53,10 +53,10 @@ int main()
     printf("\n");
 
     /* for infinito */
-    for (;;)
+    /*for (;;)
     {
         printf("Ao infinito e além!\n");
-    }
+    }*/
 
     return 0;
 }
